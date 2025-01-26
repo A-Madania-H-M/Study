@@ -1,5 +1,5 @@
 
-===================================================
+
 
 # 📗 Study
 
@@ -9,7 +9,6 @@ Bear with me, I'm still inexperienced on coding and doing my best to be better a
 
 Thank you!
 
-===================================================
 
 ## 🗿 About Me
 
@@ -20,7 +19,7 @@ Currently, I'm studying on these languages:
 - Python
 - Java
 
-===================================================
+
 ## 🎨 Author
 
 - [@A-Madania-H-M](https://github.com/A-Madania-H-M)
