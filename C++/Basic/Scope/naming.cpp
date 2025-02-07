@@ -3,14 +3,13 @@ using namespace std;
 
 int x = 5;
 
-void global() {
+void sigma(){
+    int x = 30;
     cout << x << "\n";
 };
 
 int main(){
-    global();
-
+    sigma();
     cout << x;
     return 0;
-
 };
